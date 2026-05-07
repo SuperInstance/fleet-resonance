@@ -1,5 +1,7 @@
 # fleet-resonance
 
+[![CI](https://github.com/SuperInstance/fleet-resonance/actions/workflows/ci.yml/badge.svg)](https://github.com/SuperInstance/fleet-resonance/actions/workflows/ci.yml)
+
 **The Luthier's Hammer for AI Systems**
 
 Inject controlled perturbations into language models, record how they ring, extract resonance signatures, and build contrast images. Inspired by how master luthiers tap instruments to read their internal structure from the sound they produce.
