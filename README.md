@@ -148,9 +148,9 @@ This is the MRI contrast equation, the seismic interferometry equation, the diff
 
 ## Connection to Fleet Infrastructure
 
-- **fleet-murmur** — strategy layer that taps the theorem library
-- **fleet-spread** — 5 specialist dimensions tap simultaneously
-- **whisper-sync** — resonance signals between agents
+- **[fleet-murmur](https://github.com/SuperInstance/fleet-murmur)** — strategy layer that taps the theorem library
+- **[fleet-spread](https://github.com/SuperInstance/fleet-spread)** — 5 specialist dimensions tap simultaneously
+- **[whisper-sync](https://github.com/SuperInstance/whisper-sync)** — resonance signals between agents
 - **PLATO** — the room where resonance is recorded
 - **fleet-resonance** — the imaging hardware
 
