@@ -31,3 +31,4 @@ path = "src/main.rs"
 [lib]
 name = "fleet_resonance"
 path = "src/lib.rs"
+[workspace]
